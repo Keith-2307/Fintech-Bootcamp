@@ -65,9 +65,9 @@ Dermatologists who did not use LCDS
 
 Dermatologists who use LCDS (intervention group)
 
-
 	
    36%	
+   
    64%                
 
 
