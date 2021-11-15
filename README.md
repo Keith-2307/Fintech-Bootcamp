@@ -45,11 +45,11 @@ Lazarus CDS was built with the input from dermatologist, patients, and clinical 
 
 The company’s intended customers are the physicians, and this was made evident by the study done and data showed below. This study shows the company’s target market and outlines the effectiveness of using AI in the initial diagnosis process:
 
-Study:
+## Study:
 
 17 Dermatologists across 3 clinics participated. Physicians were randomly selected into either group A or group B. Both groups treated patients and ordered biopsies when they saw fit. At the end of the study, we extracted the biopsy orders and results from the hospital’s electronic medical record and compared how often they were correct (malignant) in each of the two groups.
 
-Study results:
+## Study results:
 
 A total of 1741 biopsies from 1741 individual patients (one per patient) were collected over 8 months. 
                                                   
@@ -93,46 +93,57 @@ Lazarus CDS allows their users to filter the patients’ lesion photos by assume
 
 With the last technology detected on 14th May 2021. There are 24 technologies on the LazarusAI webpage, and 59 technologies have been removed since 2nd November 2018. These technologies can be broken down into various categories and their implementation are as follows: 
 
-Analytics and Tracking.
+## Analytics and Tracking.
 
--	Google Analytics: Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.
--	Google Universal Analytics: The analytics.js JavaScript snippet is a new way to measure how users interact with a company’s website. It is like the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.
+- Google Analytics: Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.
+- Google Universal Analytics: The analytics.js JavaScript snippet is a new way to measure how users interact with a company’s website. It is like the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.
 
-Widgets.
+## Widgets.
 
--	Intercom: Intercom is a customer relationship management and messaging tool for web app owners, Feedback Forms and Surveys – Ticketing System.
--	Google Font API: The Google Font API helps you add web fonts to any web page. Fonts.
-Mobile.
--	Viewport Meta: The LazarusAI page uses the viewport meta tag which means the content may be optimized for mobile content.
--	IPhone/Mobile Compatible: The Lazarus website contains code that allows the page to support IPhone/Mobile Content
--	Apple Mobile Web Clips Icon: The LazarusAI page contains an icon for iPhone, iPad and iTouch devices.
-Content Delivery Network.
--	Amazon S3: Amazon Simple Storage provides unlimited storage to developers and online businesses – saving costs and increase storage reliability.
+- Intercom: Intercom is a customer relationship management and messaging tool for web app owners, Feedback Forms and Surveys – Ticketing System.
+- Google Font API: The Google Font API helps you add web fonts to any web page. Fonts.
+
+## Mobile.
+
+- Viewport Meta: The LazarusAI page uses the viewport meta tag which means the content may be optimized for mobile content.
+- IPhone/Mobile Compatible: The Lazarus website contains code that allows the page to support IPhone/Mobile Content
+- Apple Mobile Web Clips Icon: The LazarusAI page contains an icon for iPhone, iPad and iTouch devices.
+
+## Content Delivery Network.
+
+- Amazon S3: Amazon Simple Storage provides unlimited storage to developers and online businesses – saving costs and increase storage reliability.
 JavaScript Libraries and Functions.
--	Webpack: webpack takes modules with dependencies and generates static assets representing those modules.
--	Core-js: Modular standard library for JavaScript. Framework
--	Lodash: Lo-dash is an alternative and a drop-in replacement for Underscore.js. JavaScript Library.
--	React: A JavaScript library for building user interfaces from Facebook. JavaScript Library
-Name Server.
--	Google Cloud DNS: High volume DNS services from Google Cloud Platform.
--	Google DNS: DNS services provided by Google.
--	Google Domains: DNS registered at Google Domains.
-Web Hosting Providers.
--	Google: LazarusAI’s site is hosted on Google infrastructure.
--	Amazon: LazarusAI’s site is hosted on Amazon AWS EC2 infrastructure. Cloud Hosting. Cloud PaaS
+- Webpack: webpack takes modules with dependencies and generates static assets representing those modules.
+- Core-js: Modular standard library for JavaScript. Framework
+- Lodash: Lo-dash is an alternative and a drop-in replacement for Underscore.js. JavaScript Library.
+- React: A JavaScript library for building user interfaces from Facebook. JavaScript Library
 
-Email Hosting Providers
--	Google Apps for Business: Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud. Business Email Hosting
+## Name Server.
+
+- Google Cloud DNS: High volume DNS services from Google Cloud Platform.
+- Google DNS: DNS services provided by Google.
+- Google Domains: DNS registered at Google Domains.
+
+## Web Hosting Providers.
+
+- Google: LazarusAI’s site is hosted on Google infrastructure.
+- Amazon: LazarusAI’s site is hosted on Amazon AWS EC2 infrastructure. Cloud Hosting. Cloud PaaS
+
+## Email Hosting Providers
+
+- Google Apps for Business: Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud. Business Email 
+
+## Hosting
 
 SSL Certificates.
--	SSL by Default: LazarusAI’s website redirects traffic to an HTTPS/SSL version be default.
--	Amazon SSL: Amazon supplied SSL certificate
+- SSL by Default: LazarusAI’s website redirects traffic to an HTTPS/SSL version be default.
+- Amazon SSL: Amazon supplied SSL certificate
 Operating System and Servers
--	IPv6: LazarusAI’s website has an IPv6 record.
+- IPv6: LazarusAI’s website has an IPv6 record.
 Verified CDN.
--	Amazon CloudFront: Amazon CloudFront delivers your static and streaming content using a global network of edge locations. Edge Delivery Network
+- Amazon CloudFront: Amazon CloudFront delivers your static and streaming content using a global network of edge locations. Edge Delivery Network
 Content Delivery Network.
--	LazarusAI’s website contains links that give the impression that some of the site contents are stored on a content delivery network.
+- LazarusAI’s website contains links that give the impression that some of the site contents are stored on a content delivery network.
 
 
 
@@ -190,9 +201,10 @@ Some of the core metrics that are used in the Insurtech domain include:
 Market Considerations:
 
 Understanding how well a given InsurTech company is doing within this FinTech niche is one of the most important factors in determining its value. Market dynamics such as market size, potential market available, and growth prospects are important to understand. A valuation will consider absolute market value, existing competitors, and existing incumbents.
-Company Considerations:
+### Company Considerations:
 When valuing a start-up, quantitative information (financial and operating history) is limited; therefore, qualitative information can be extremely important in determining a company’s value. The quality and experience of the management team can be important. Knowledge of the insurance industry including understanding customer preferences, technology integration, the competitive and regulatory environments can enhance an InsurTech’s company value.
-Valuation Approaches:
+
+### Valuation Approaches:
 As InsurTech companies enhance business operations and reduce costs, valuations for these companies will become more important. There are three common approaches to determining business value: asset approach, income approach, and market approach. Each valuation approach is typically considered and then weighted accordingly to provide an indicated value or a range of value for the company, and ultimately, the specific interest or share class of the company.
 -	The Asset Approach
 The asset approach determines the value of a business by examining the cost that would be incurred by the relevant party to reassemble the company’s assets and liabilities. This approach is generally inappropriate for technology start-ups as they are generally not capital-intensive businesses until the company has completed funding rounds. However, it can be instructive to consider the potential costs and time that the company has undertaken to develop proprietary technology and other intangibles.
@@ -200,7 +212,9 @@ The asset approach determines the value of a business by examining the cost that
 The market approach determines the value of a company by utilizing valuation metrics from transactions in comparable companies or historical transactions in the company. Consideration of valuation metrics can provide meaningful indications for start-ups that have completed multiple funding rounds but can be complicated by different preferences and rights with different share classes.
 For early-stage companies, market metrics can provide valuable insight into potential valuations and financial performance once the InsurTech company matures. For already mature enterprises, recent financial performance can be compiled to serve as a valuable benchmarking tool.
 Investors can discern how the market might value an InsurTech company based on pricing information from comparable InsurTech companies or recent acquisitions of comparable InsurTech companies.
-The Income Approach:
+
+### The Income Approach:
+
 The income approach can also provide a meaningful indication of value for a FinTech company. This relies on considerations for the business’ expected cash flows, risk, and growth prospects.
 The most common income approach method is the discount cash flow (DCF) method, which determines value based upon the present value of the expected cash flows for the enterprise. The DCF method projects the expected profitability of a company over a discrete period and prices the profitability using an expected rate of return, or a discount rate. The combination of present values of forecasted cash flows provides the indication of value for a specific set of assumptions.
 For start-up InsurTech companies, cash flow forecasts are often characterized by a period of operating losses, capital needs, and expected payoffs as profitability improves or some exit event, like an acquisition, occurs. Additionally, investors and analysts often consider multiple scenarios for early-stage companies both in terms of cash flows and exit outcomes (IPO, sale to a strategic or financial buyer, etc.), which can lead to the use of a probability weighted expected return model (PWERM) for valuation.
@@ -233,15 +247,21 @@ These technologies are appropriate as they provide the necessary platforms to al
 ## Resources:
 
 (www.lazarusai.com)
+
 (www.action.cancer.ca)
+
 (www.crunchbase.com)
+
 (www.techcrunch.com)
+
 (www.builtwith.com)
+
 (www.kpmg.com)
+
 (www.mercercapital.com)
 
-
 (visible.vc/blog/what-is-pre-seed)
+
 (https://assets.kpmg/content/dam/kpmg)
 
 
